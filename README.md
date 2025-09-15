@@ -1,8 +1,7 @@
-Demo: [http://webjeda.com/gatok](http://webjeda.com/gatok)
+# Otter Pop
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+The world's greatest Jekyll theme.
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+Example: <http://tybenz.github.io/otter-pop>
+
+![](http://jekyllthemes.org/thumbnails/otter-pop.png)
