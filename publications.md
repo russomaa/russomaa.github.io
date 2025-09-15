@@ -7,14 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<div class="mt50"></div>
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+I am Mayra Russo.
