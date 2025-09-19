@@ -1,11 +1,11 @@
 - title: "Research"
   href: "/research/"
 
-- title: "CV"
-  href: "/cv/"
-
 - title: "Other projects"
   href: "/other/"
+
+  - title: "CV"
+  href: "/cv/"
 
 - title: "Blog"
   href: "/blog/"
