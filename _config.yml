@@ -6,7 +6,7 @@ permalink: about/
 exclude: ["Makefile", "README.md"]
 
 url: "http://russomaa.github.io"     # the base hostname & protocol for your site
-baseurl: "/about"                   # the subpath of your site, e.g. /blog
+baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
     name:
