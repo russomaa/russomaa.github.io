@@ -7,7 +7,3 @@ permalink: /
 
 Under construction 
 
-## Contact
-
-Email: [chewy@rebel.com]
-
