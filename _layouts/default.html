@@ -1,40 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ site.description }}</title>
+<html>
 
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <!-- <link rel="apple-touch-img/logo-precomposed" href="/otter-pop/img/logo.jpg">
-    <link rel="apple-touch-img/logo" href="/otter-pop/img/logo.jpg">
-    <link rel="apple-touch-img/logo" sizes="72x72" href="/otter-pop/img/logo.jpg">
-    <link rel="apple-touch-img/logo" sizes="114x114" href="/otter-pop/img/logo.jpg"> -->
+  {% include head.html %}
 
-    <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <!-- <link href="img/logo.jpg" rel="shortcut icon"> -->
-</head>
-<body>
-  <div class="sidebar">
-    <!-- <a href="/" class="logo">
-      <img src="/otter-pop/img/logo.jpg">
-    </a> -->
-
-    <ul class="nav">
-      <div class="nav-inner">
-        <li><a href="/"><span class="icon doc"></span>blog</a></li>
-        <li><a href="/about"><span class="icon info"></span>about</a></li>
-        <li><a href="/publications"><span class="icon code"></span>publications</a></li>
-        <li><a href="/projects"><span class="icon link"></span>projects</a></li>
-      </div>
-    </ul>
-  </div>
-  <div class="wrapper">
-    <!--<h1><marquee scrolldelay="60">otter pop - the world's greatest jekyll theme</marquee></h1>-->
-    <h1>Mayra Russo, PhD</h1>
+  <body>
+  <div class="page">
+    {% include header.html %}
 
     {{ content }}
-  </div>
 
-</body>
+    {% include footer.html %}
+
+    {% include analytics.html %}
+    </div>
+  </body>
+
 </html>

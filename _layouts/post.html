@@ -1,42 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ site.description }}</title>
-
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <!-- <link rel="apple-touch-img/logo-precomposed" href="/otter-pop/img/logo.jpg">
-    <link rel="apple-touch-img/logo" href="/otter-pop/img/logo.jpg">
-    <link rel="apple-touch-img/logo" sizes="72x72" href="/otter-pop/img/logo.jpg">
-    <link rel="apple-touch-img/logo" sizes="114x114" href="/otter-pop/img/logo.jpg"> -->
-
-    <link href="../css/styles.css" rel="stylesheet" type="text/css">
-    <link href="../css/pygments.css" rel="stylesheet" type="text/css">
-    <!-- <link href="../img/logo.jpg" rel="shortcut icon"> -->
-</head>
-<body>
-  <div class="sidebar">
-    <!-- <a href="/" class="logo">
-      <img src="/otter-pop/img/logo.jpg">
-    </a> -->
-
-    <ul class="nav">
-      <div class="nav-inner">
-        <li><a href="https://russomaa.github.io/"><span class="icon doc"></span>blog</a></li>
-        <li><a href="https://russomaa.github.io/about"><span class="icon info"></span>about</a></li>
-        <li><a href="https://russomaa.github.io/publications"><span class="icon code"></span>publications</a></li>
-        <li><a href="https://russomaa.github.io/projects"><span class="icon link"></span>projects</a></li>
-      </div>
-    </ul>
-  </div>
-  <div class="wrapper">
-    <!--<h1><marquee scrolldelay="60">otter pop - the world's greatest jekyll theme</marquee></h1>-->
+---
+layout: default
+---
+<div class="post">
+    <header class="post-header">
     <h1>{{ page.title }}</h1>
+    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} {% if page.author %}by {{ page.author }}{{% else %}}{% if site.author.name %}by {{ site.author.name }}{% endif %}{% endif %}{% if page.location %} ({{ page.location }}{% endif %})</p>
 
-    <div class="post-body">
-      {{ content }}
-    </div>
-  </div>
-</body>
-</html>
+    {% if page.description %}
+    <p class="post-meta">Description: {{ page.description }}</p>
+    {% endif %}
+
+    {% if page.categories %}
+    <p class="post-meta">Categories:
+    {% for cat in page.categories %}
+    <!-- <a href="{{/categories/#{{ cat }} | prepend: site.baseurl}}" title="{{ cat }}">{{ cat }}</a>&nbsp; -->
+    {{ cat }}&nbsp;
+    {% endfor %}
+
+    </p>
+    {% endif %}
+    </header>
+
+    {{ content }}
+
+    {% include comments.html %}
+</div>
