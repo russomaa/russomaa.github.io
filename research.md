@@ -6,78 +6,79 @@ pubs:
 
    - title: "Towards an Ontology-Driven Approach to Document Bias"
      author: "Russo Mayra and Vidal Maria-Esther" 
-     url: "http://dx.doi.org/10.1613/jair.1.19388"
-     DOI: "10.1613/jair.1.19388"
      journal: "Journal of Artificial Intelligence Research"
      year: "2025" 
+     url: "http://dx.doi.org/10.1613/jair.1.19388"
+     doi: "10.1613/jair.1.19388"
+     
 
    - title: "Tracing Bias for Fairer Content-Based Misinformation Detection" 
      author: "Russo Mayra and Merenda Flavio and Gomez-Perez Jose Manuel and Vidal Maria-Esther"
-     url: "http://dx.doi.org/10.1145/3701716.3717534" 
-     DOI: "10.1145/3701716.3717534"
-     booktitle: "Companion Proceedings of the ACM on Web Conference 2025"
+     journal: "Companion Proceedings of the ACM on Web Conference 2025"
      year: "2025"
+     url: "http://dx.doi.org/10.1145/3701716.3717534" 
+     doi: "10.1145/3701716.3717534"
 
    - title: "Employing Hybrid AI Systems to Trace and Document Bias in ML Pipelines"
      author: "Russo Mayra and Chudasama Yasharajsinh and Purohit Disha and Sawischa Sammy and Vidal Maria-Esther"
-     url: "http://dx.doi.org/10.1109/ACCESS.2024.3427388" 
-     DOI: "10.1109/access.2024.3427388"
      journal: "IEEE Access" 
      year: "2024"
+     url: "http://dx.doi.org/10.1109/ACCESS.2024.3427388" 
+     doi: "10.1109/access.2024.3427388"
 
    - title: "Articulation Work and Tinkering for Fairness in Machine Learning"
-     author: "Fahimi Miriam and Russo Mayra and Scott Kristen M. and Vidal Maria-Esther and Berendt Bettina and Kinder-Kurlanda Katharina"
-     url: "http://dx.doi.org/10.1145/3686973"
-     DOI: "10.1145/3686973" 
+     author: "Fahimi Miriam and Russo Mayra and Scott Kristen M. and Vidal Maria-Esther and Berendt Bettina and Kinder-Kurlanda Katharina" 
      journal: "Proceedings of the ACM on Human-Computer Interaction" 
-     year: "2024"
+     year: "2024" 
+     url: "http://dx.doi.org/10.1145/3686973"
+     doi: "10.1145/3686973"
 
    - title: "Bridging Research and Practice Through Conversation: Reflecting on Our Experience"
      author: "Russo Mayra and Jorgensen Mackenzie and Scott Kristen M. and Xu Wendy and Nguyen Di H. and Finocchiaro Jessie and Olckers Matthew"
+     journal: "Proceedings of the 4th ACM Conference on Equity and Access in Algorithms Mechanisms and Optimization" 
+     year: "2024"
      url: "http://dx.doi.org/10.1145/3689904.3694705"
      DOI: "10.1145/3689904.3694705"
-     booktitle: "Proceedings of the 4th ACM Conference on Equity and Access in Algorithms Mechanisms and Optimization" 
-     year: "2024"
 
    - title: "Leveraging Ontologies to Document Bias in Data"
      author: "Mayra Russo and Maria-Esther Vidal"
-     url: "https://ceur-ws.org/Vol-3808/paper5.pdf"
-     booktitle: "Proceedings of the Second Workshop on Fairness and Bias in AI"
+     journal: "Proceedings of the Second Workshop on Fairness and Bias in AI"
      year: "2024"
-     url: "https://ceur-ws.org/Vol-3808/"
-
-   - author: "Alvarez Jose M. and Colmenarejo Alejandra Bringas and Elobaid Alaa and Fabbrizzi Simone and Fahimi Miriam and  Ferrara Antonio and Ghodsi Siamak and Mougan Carlos and Papageorgiou Ioanna and Reyero Paula and Russo Mayra and Scott Kristen M. and State Laura and Zhao Xuan and Ruggieri Salvatore"
-     title: "Policy advice and best practices on bias and fairness in AI"
+     url: "https://ceur-ws.org/Vol-3808/paper5.pdf"
+    
+   - title: "Policy advice and best practices on bias and fairness in AI"
+     author: "Alvarez Jose M. and Colmenarejo Alejandra Bringas and Elobaid Alaa and Fabbrizzi Simone and Fahimi Miriam and  Ferrara Antonio and Ghodsi Siamak and Mougan Carlos and Papageorgiou Ioanna and Reyero Paula and Russo Mayra and Scott Kristen M. and State Laura and Zhao Xuan and Ruggieri Salvatore"
+     journal: "Ethics and Information Technology"
      year: "2024"
      url: "https://doi.org/10.1007/s10676-024-09746-w"
      doi: "10.1007/s10676-024-09746-w"
-     journal: "Ethics and Information Technology "
-
+     
    - title: "Tracing the Impact of Bias in Link Prediction" 
-     url: "http://dx.doi.org/10.1145/3605098.3635912" 
-     DOI: "10.1145/3605098.3635912"
-     booktitle: "Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing"
      author: "Russo Mayra and Sawischa Sammy Fabian and Vidal Maria-Esther"
+     journal: "Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing"
      year: "2024"
+     url: "http://dx.doi.org/10.1145/3605098.3635912" 
+     doi: "10.1145/3605098.3635912"
 
    - title: "Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts"
      author: "Jose Alberto Benitez-Andrades and Maria Teresa Garcia-Ordas and Mayra Russo and Ahmad Sakor and Luis Daniel Fernandes Rotger and Maria Esther Vidal"
      journal: "Semantic Web"
      year: "2023"
-     url: "https://api.semanticscholar.org/CorpusID:257542837""
+     url: "https://api.semanticscholar.org/CorpusID:257542837"
 
    - title: "A Multidisciplinary Lens of Bias in Hate Speech" 
      author: "Reyero Lobo Paula and Kwarteng Joseph and Russo Mayra and Fahimi Miriam and Scott Kristen and Ferrara Antonio and Sen Indira and Fernandez Miriam"
-     url: "http://dx.doi.org/10.1145/3625007.3627491" 
-     DOI: "10.1145/3625007.3627491" 
-     booktitle: "Proceedings of the International Conference on Advances in Social Networks Analysis and Mining" 
+     journal: "Proceedings of the International Conference on Advances in Social Networks Analysis and Mining" 
      year: "2023"
+     url: "http://dx.doi.org/10.1145/3625007.3627491" 
+     doi: "10.1145/3625007.3627491" 
+     
 
 ---
 
 ## Publications
 
-{% assign thumbnail="left" %}
+<!-- {% assign thumbnail="left" %} -->
 
 {% for pub in page.pubs %}
 {% if pub.image %}
