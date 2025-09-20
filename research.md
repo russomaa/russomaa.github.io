@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Academic Publications
 pubs:
 
    - title: "Towards an Ontology-Driven Approach to Document Bias"
@@ -65,6 +65,8 @@ pubs:
 ---
 
 ## Peer-reviewed Publications
+
+[ORCiD](https://orcid.org/0000-0001-7080-6331)
 
 <!-- {% assign thumbnail="left" %} -->
 
