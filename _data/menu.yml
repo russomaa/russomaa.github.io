@@ -1,11 +1,11 @@
-- title: "Research"
+- title: "Academic Publications"
   href: "/research/"
 
-- title: "Other projects"
+- title: "Projects"
   href: "/other/"
   
-- title: "CV"
-  href: "/cv/"
+# - title: "CV"
+#   href: "/cv/"
 
 - title: "Blog"
   href: "/blog/"
