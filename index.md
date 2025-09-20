@@ -14,14 +14,14 @@ Additionally, I hold a M.Sc. in Data Science and a B.Sc. in Accounting and Finan
 ## Education 
 
 - PhD in Computer Science
-  Thesis: [Documenting Bias in Data through Ontologies (magna cum laude)](https://repo.uni-hannover.de/items/0291d1da-710c-40c1-86a6-8a9354a271ef)
-  Leibniz University Hannover (Hannover, Germany) 
-  Years: 2022- June 2025
+    Thesis: [Documenting Bias in Data through Ontologies (magna cum laude)](https://repo.uni-hannover.de/items/0291d1da-710c-40c1-86a6-8a9354a271ef)
+    Leibniz University Hannover (Hannover, Germany) 
+    Years: 2022- June 2025
 
 - MSc in Data Science
-  University of Valencia (Valencia, Spain) 
-  Years: 2018-2020
+    University of Valencia (Valencia, Spain) 
+    Years: 2018-2020
 
 - BSc in Accounting and Finance
-  University of Valencia (Valencia, Spain)    
-  Years: 2010-2014
+    University of Valencia (Valencia, Spain)    
+    Years: 2010-2014
