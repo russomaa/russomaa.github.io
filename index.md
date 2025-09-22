@@ -5,7 +5,8 @@ permalink: /
 ---
 
 
-I am an enthusiastic, dedicated researcher with an eclectic skill set and multidisciplinary background. I look forward to a multifaceted career with special sights set on research that can lead to strengthening civic engagement practices and inform evidence-based policies around AI development, deployment, and dismantlement.
+I am an enthusiastic and dedicated professional with an eclectic background and skill-set.
+My  research interests are focused on the identification of practices that can strength civic engagement and inform evidence-based policies around AI development, deployment, and dismantlement.
 
 My doctoral research focused on the use of semantic data models to document bias in data-driven systems with a multidisciplinary perspective enriched by my experience as a fellow in the Marie Skłodowska-Curie Actions Innovative Training Networks: [NoBIAS](https://nobias-project.eu/). 
 
