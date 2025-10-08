@@ -40,7 +40,7 @@ pubs:
      year: "2024"
     
    - title: "Policy advice and best practices on bias and fairness in AI"
-     author: "Alvarez Jose M. and Colmenarejo Alejandra Bringas and Elobaid Alaa and Fabbrizzi Simone and Fahimi Miriam and  Ferrara Antonio and Ghodsi Siamak and Mougan Carlos and Papageorgiou Ioanna and Reyero Paula and Russo Mayra and Scott Kristen M. and State Laura and Zhao Xuan and Ruggieri Salvatore"
+     author: "Alvarez Jose M. and Colmenarejo Alejandra Bringas and Elobaid Alaa and Fabbrizzi Simone and Fahimi Miriam and  Ferrara Antonio and Ghodsi Siamak and Mougan Carlos and Papageorgiou Ioanna and Reyero-Lobo Paula and Russo Mayra and Scott Kristen M. and State Laura and Zhao Xuan and Ruggieri Salvatore"
      journal: "Ethics and Information Technology"
      year: "2024"
      url: "https://doi.org/10.1007/s10676-024-09746-w"
