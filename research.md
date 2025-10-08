@@ -35,7 +35,7 @@ pubs:
      url: "http://dx.doi.org/10.1145/3689904.3694705"
 
    - title: "Leveraging Ontologies to Document Bias in Data"
-     author: "Mayra Russo and Maria-Esther Vidal"
+     author: "Russo Mayra and Vidal Maria-Esther"
      journal: "Proceedings of the Second Workshop on Fairness and Bias in AI"
      year: "2024"
     
@@ -52,12 +52,12 @@ pubs:
      url: "http://dx.doi.org/10.1145/3605098.3635912" 
 
    - title: "Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts"
-     author: "Jose Alberto Benitez-Andrades and Maria Teresa Garcia-Ordas and Mayra Russo and Ahmad Sakor and Luis Daniel Fernandes Rotger and Maria Esther Vidal"
+     author: "Benitez-Andrades Jose Alberto and Garcia-Ordas Maria Teresa and Russo Mayra and Sakor Ahmad and Fernandes-Rotger Luis Daniel and Vidal Maria-Esther"
      journal: "Semantic Web"
      year: "2023"
 
    - title: "A Multidisciplinary Lens of Bias in Hate Speech" 
-     author: "Reyero Lobo Paula and Kwarteng Joseph and Russo Mayra and Fahimi Miriam and Scott Kristen and Ferrara Antonio and Sen Indira and Fernandez Miriam"
+     author: "Reyero-Lobo Paula and Kwarteng Joseph and Russo Mayra and Fahimi Miriam and Scott Kristen and Ferrara Antonio and Sen Indira and Fernandez Miriam"
      journal: "Proceedings of the International Conference on Advances in Social Networks Analysis and Mining" 
      year: "2023"
      url: "http://dx.doi.org/10.1145/3625007.3627491"      
