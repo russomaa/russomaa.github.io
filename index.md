@@ -4,7 +4,7 @@ title: About me
 permalink: /
 ---
 
-I am an enthusiastic and dedicated professional with an eclectic background and skill set. My research interests are focused on the identification of practices that can strengthen civic engagement and inform evidence-based policies on the development, deployment, and dismantlement of AI systems.
+I am an enthusiastic and dedicated professional with an eclectic background and skill set. I am interested in studying the implications of datafication on society with the aim to contribute to the identification of practices that can inform evidence-based policies on the development, deployment, and dismantlement of AI systems. Currently, I am researching the impact of AI on workers' well-being and the future of work. 
 
 My doctoral research focused on the use of semantic data models to document bias in data-driven systems with a multidisciplinary perspective enriched by my experience as a fellow in the Marie Skłodowska-Curie Actions Innovative Training Networks: [NoBIAS](https://nobias-project.eu/). 
 
