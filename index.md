@@ -4,7 +4,7 @@ title: About me
 permalink: /
 ---
 
-I am an enthusiastic and dedicated professional with an eclectic background and skill set. I am interested in studying the implications of datafication on society with the aim to contribute to the identification of practices that can inform evidence-based policies on the development, deployment, and dismantlement of AI systems. Currently, I am researching the impact of AI on workers' well-being and the future of work. 
+I am an enthusiastic and dedicated professional with an eclectic background and skill set. I am interested in studying the implications of datafication on society with the aim to contribute to the identification of practices that can inform evidence-based policies on the development, deployment, and dismantlement of AI systems. Currently, I am a postdoctoral researcher at the [i2TIC-IA Lab](https://recerca.uoc.edu/grupos/37399/detalle) at the Open University of Catalonia. My focus is on studying the impact of AI on workers in the context of the future of work. 
 
 My doctoral research focused on the use of semantic data models to document bias in data-driven systems with a multidisciplinary perspective enriched by my experience as a fellow in the Marie Skłodowska-Curie Actions Innovative Training Networks: [NoBIAS](https://nobias-project.eu/). 
 
